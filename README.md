@@ -29,7 +29,7 @@ npm test
 ```
 
 
-The tests use Playwright with Chromium. The test runner starts the development server automatically if it is not already running.
+#The tests use Playwright with Chromium. The test runner starts the development server automatically if it is not already running.
 ##Checkout risk test plan
 
 1. Empty cart — highest priority: Confirm checkout is blocked and a clear message tells the customer to add an item.
